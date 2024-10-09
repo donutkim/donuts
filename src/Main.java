@@ -15,6 +15,6 @@ public class Main {
         //this part added
         //this part secondly added
 
-        //this is for 'mine'
+        //this is for 'git_with_team'
     }
 }
