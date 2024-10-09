@@ -11,25 +11,5 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
-
-        //this part added
-        //this part secondly added
-
-        //this is for 'git_with_team'
-
-        //hehe
-        //here
-        //hereeeee
-        //hi
-        //heyy
-        //hh
-        //ji
-        //lalala
-        //this
-        //jjjj
-        //kdy2224.test
-        //donut
-        //tiny
-        //here
     }
 }
